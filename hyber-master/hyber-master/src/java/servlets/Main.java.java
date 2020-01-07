@@ -71,7 +71,7 @@ public class MainServlet extends HttpServlet {
             printWriter.println("<br/>");
             
             if(gruppyi != null){ 
-                //öèêë->
+                
                 for (Gruppyi group : gruppyi)
                 {
                     
